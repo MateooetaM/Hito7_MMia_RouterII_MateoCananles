@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #161616;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-elements{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.button-derecha{
+    margin-left: auto;
+}
+.nav-elements button{
+    margin-right: 0.5rem;
+}
+.nav-elements h1{
+    color: white;
+    margin-bottom: 0;
+    padding: 0.5rem;
+}

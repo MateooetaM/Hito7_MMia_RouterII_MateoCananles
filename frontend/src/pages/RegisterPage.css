@@ -1,0 +1,14 @@
+.formulario {
+  max-width: 75ch;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.formulario button {
+  margin: 1rem 1rem;
+}

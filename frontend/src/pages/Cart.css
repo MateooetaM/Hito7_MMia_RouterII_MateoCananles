@@ -1,0 +1,9 @@
+.button-1 {
+  width: 6rem;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
